@@ -1,0 +1,60 @@
+body {
+	background-image: url("./why.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+* {
+	margin: 0;
+	box-sizing: border-box;
+}
+
+ul {
+		display: flex;
+		list-style-type: none;
+		margin: 0;
+		gap: 20px;
+		padding: 20px;
+		padding: 0;
+		/* overflow: hidden; */
+		background-color: rgb(20, 20, 20);
+	}
+
+
+
+li a {
+	  /* display: block; */
+	  color: white;
+	  text-align: center;
+	  /* padding: 20px 16px; */
+	  text-decoration: none;
+	  padding: 1em;
+	}
+
+li a:hover {
+  background-color: rgb(130, 167, 237);
+}
+/*.inf1, .inf2, .inf3{
+	
+	height:419px;
+	width:32%;
+	border:1px solid black;
+	display:inline-block;
+	float-right: 8px;
+	
+}
+.footer{
+	
+	height:48px;
+	width:100%;
+	border:1px solid black;
+	background-color: gray;
+	color: white;
+	text-align:center;
+	font-size:12px;
+	
+	
+}
+img{
+	width: 100%;
+	height: 419px;
+} */
